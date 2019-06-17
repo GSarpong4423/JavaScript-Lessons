@@ -1,10 +1,10 @@
- //first alert
- alert("Hello World");
+ var youLikeMeat = true;
+ var myNum = 10;
  
- // second alert
- alert("Hello, World!");
+ if (youLikeMeat) {
+     document.write("you like meat");
+     
+ } else {
+     document.write("you hate meat");
+ }
  
- 
- // make the image invisible
- // move the image from top to bottom
- // make image visible
